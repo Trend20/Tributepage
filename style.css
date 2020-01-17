@@ -1,0 +1,40 @@
+*{
+    font-family: sans-serif;
+    font-weight: normal;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #fefefe;
+    font-size: 1rem;
+}
+#title{
+    background: #fefefe;
+}
+h1{
+    font-weight: bold;
+}
+#image{
+    background: #5f5d5d;
+}
+
+#main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+h3{
+    font-size: 2rem;
+    font-weight: bold;
+}
+ul li{
+    margin: 10px;
+    padding: 10px;
+    line-height: 1.4;
+}
+a{
+    font-weight: bold;
+    margin: 20px;
+}
